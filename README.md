@@ -1,10 +1,19 @@
-## Basic JS Calculator
+# Basic JS Calculator
 In this project a basic calculator is developed using HTML,CSS,JS.
 
-# Technologies used:
+## Technologies used:
 
   * HTML
   * CSS
   * JS
 
-# Features:
+## Features:
+
+  * Easy logic.
+  * Easy to develop.
+  * Short Code
+  * Minimal and dynamic design.
+  * Basic JS DOM concept.
+
+## Projectview:
+[Basic JS Calculator]()

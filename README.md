@@ -15,5 +15,5 @@ In this project a basic calculator is developed using HTML,CSS,JS.
   * Minimal and dynamic design.
   * Basic JS DOM concept.
 
-## Projectview:
-[Basic JS Calculator]()
+## Project view:
+[Basic JS Calculator](file:///C:/Users/nipa/OneDrive/Desktop/java%20script/Basic-JS-calculator/index.html)

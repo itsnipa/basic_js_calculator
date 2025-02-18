@@ -17,5 +17,5 @@ In this project a basic calculator is developed using HTML,CSS,JS.
 
 ## Project view: 
 
-[Basic JS Calculator]
+ [Basic JS Calculator]
 

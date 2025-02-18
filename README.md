@@ -16,5 +16,6 @@ In this project a basic calculator is developed using HTML,CSS,JS.
   * Basic JS DOM concept.
 
 ## Project view: 
+![image](![image](https://github.com/user-attachments/assets/b1ee2e15-89cb-4a1a-a300-a24eae0a1e46)
 
 
